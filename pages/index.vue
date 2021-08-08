@@ -1,8 +1,12 @@
 <template lang="html">
-    <body>
+    <div>
         <h1>Hello world!</h1>
         <hr>
         <div>Testing</div>
-    </body>
+        <hr>
+         <NuxtLink to="/about">About</NuxtLink>
+        <hr>
+        <a href="https://nuxtjs.org">External Link to Nuxt home</a>
+    </div>
 </template>
 
