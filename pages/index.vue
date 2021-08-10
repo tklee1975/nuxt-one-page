@@ -1,6 +1,7 @@
 <template lang="html">
     <div>
         <h1>Hello world!</h1>
+        <img height="100px" src="~/assets/images/logo.png">
         <hr>
         <div>Testing</div>
         <hr>
